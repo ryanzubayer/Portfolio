@@ -15,5 +15,5 @@ Portforlio lists
 - URL of deployed solution: 
 - URL of repository: 
 
-Developed and maintained by Victor Cesar Lopez  - <a href = ryanzubayer95@gmail.com>ryanzubayer95@gmail.com</a>
+Developed and maintained by Ryan Zubayer  - <a href = ryanzubayer95@gmail.com>ryanzubayer95@gmail.com</a>
 
