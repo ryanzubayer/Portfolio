@@ -13,7 +13,7 @@ Portforlio lists
 
 
 - URL of deployed solution: 
-- URL of repository: 
+- URL of repository: https://github.com/ryanzubayer/Portfolio
 
 Developed and maintained by Ryan Zubayer  - <a href = ryanzubayer95@gmail.com>ryanzubayer95@gmail.com</a>
 
